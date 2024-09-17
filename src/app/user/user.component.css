@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+.custom-table :hover {
+    background-color: #9ec9f1; /* Light gray background on row hover */
+  }
+.custom-table {
+    background-color: #f8f9fa; /* Light gray background */
+    border: 2px solid #03192e; /* Border around the table */
+    border-radius: 8px; /* Rounded corners */
+    
+  }
+ 
+  .custom-table th {
+    background-color: #343a40; /* Dark background for headers */
+    color: #ffffff; /* White text color for headers */
+    text-align: center;
+  }
+ 
+  .custom-table td {
+    padding: 15px; /* Padding inside table cells */
+    text-align: center; /* Center-align text in cells */
+  }
